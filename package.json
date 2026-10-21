@@ -1,0 +1,9 @@
+{
+  "name": "dirittocafe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Diritto Café website redesign",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
